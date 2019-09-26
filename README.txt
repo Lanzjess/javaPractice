@@ -1,0 +1,1 @@
+This repository is where I practice Java fundamentals and OOP(Object Oriented Programming) design.
